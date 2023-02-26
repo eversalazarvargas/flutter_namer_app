@@ -139,7 +139,7 @@ class GeneratorPage extends StatelessWidget {
                 onPressed: () {
                   appState.getNext();
                 },
-                child: Text('Next wi'),
+                child: Text('Next'),
               ),
             ],
           ),
